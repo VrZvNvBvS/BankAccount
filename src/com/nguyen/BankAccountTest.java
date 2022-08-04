@@ -1,3 +1,5 @@
+package src.com.nguyen;
+
 public class BankAccountTest {
     public static void main(String[] args) {
 
